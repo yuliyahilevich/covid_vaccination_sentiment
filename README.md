@@ -1,4 +1,4 @@
-# Tweeter altitude to vaccination
+# Twitter attitude to vaccination
  
 That project is my very first project after finishing the DS Bootcamp with _AllWomen_. 
 
@@ -29,5 +29,5 @@ The model used to analyze the twetts was **VADER Sentiment Analysis** model. Vad
 ## Visualization with Word Clouds
 
 **Word Clouds** are visual representations of words that give greater prominence to words that appear more frequently. This type of visualization can help presenters to quickly collect data from their audience, highlight the most common answers and present the data in a way that everyone can understand.
-In my particular case I wanted to see the difference of visualization between negative and positive Tweets
+In my particular case I wanted to see the difference of visualization between negative and positive Twits.
 
